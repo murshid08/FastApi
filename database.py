@@ -7,7 +7,7 @@ from sqlalchemy.ext.declarative import declarative_base
 
 
 # SQLALCHEMY_DATABASE_URL = "sqlite:///./todosApp.db"
-SQLALCHEMY_DATABASE_URL = "postgresql://postgres:kgisl123@localhost/crudApp"
+SQLALCHEMY_DATABASE_URL = "postgresql://fastapi_r0o1_user:mIitQvMVTAvzLMJxjLGccGHy4usG63ke@dpg-cr6m7vt6l47c739616j0-a/fastapi_r0o1"
 
 
 
